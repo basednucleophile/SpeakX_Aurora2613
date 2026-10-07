@@ -79,7 +79,7 @@ Input files (place in working directory):
   - user_behavioral_data.csv (1500 users, schema per PS)
   - company_kb.md (company knowledge bank)
   - experiment_results.csv (provided by SpeakX for Demo 2)
-
+-----------------
 Windows compatible: All paths use os.path.join, no Unix-specific commands.
 
 -----------------
